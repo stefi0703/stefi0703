@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefi0703
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning OOP on Java and JavaScript
+- 🌱 I’m currently learning OOP in Java and JavaScript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
       Email: stefania.vintilescu@yahoo.com
