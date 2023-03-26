@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefi0703
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Frontend/Backend Development
 - 🌱 I’m currently learning OOP in Java and JavaScript
 - 📫 How to reach me 
       Email: stefaniavintilescu@gmail.com
