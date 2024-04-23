@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefi0703
 - 👀 I’m interested in Frontend/Backend Development
-- 🌱 I’m currently learning OOP in Java and JavaScript
+- 🌱 I’m currently learning Spring and React
 - 📫 How to reach me 
       Email: stefaniavintilescu@gmail.com
 
